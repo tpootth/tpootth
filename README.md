@@ -35,16 +35,16 @@
   <li><strong><i>Database</i></strong></li>
   <ul>
     <li>🐘PostgreSQL</li>
-    <li>🍃MongoDb</li>
-    <li>⚡SparkSQL</li>
     <li>🍖bq SQL</li>
+    <li>⚡SparkSQL</li>
+    <li>🍃MongoDb</li>
   </ul>
   <li><strong><i>Others</i></strong></li>
   <ul>
     <li>🐈‍⬛Git</li>
     <li>🐳Docker</li>
-    <li>📕Databricks</li>
     <li>⛅Google Cloud Platform</li>
+    <li>📕Databricks</li>
     <li>📩Kafka</li>
   </ul>
   <li><strong><i>Visualize</i></strong></li>
