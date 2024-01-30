@@ -37,7 +37,7 @@
     <li>🐘PostgreSQL</li>
     <li>🍖bq SQL</li>
     <li>⚡SparkSQL</li>
-    <li>🍃MongoDb</li>
+<!--     <li>🍃MongoDb</li> -->
   </ul>
   <li><strong><i>Others</i></strong></li>
   <ul>
