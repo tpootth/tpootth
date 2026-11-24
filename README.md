@@ -16,12 +16,21 @@
       <p><sub><a href="https://tpootth.github.io/go_test_api/">Live site</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/go_test_api">Code</a></sub></p>
     </td>
     <td width="33%" valign="top">
+      <a href="https://tpootth.github.io/stock-volatility-observatory/"><img src="assets/stock-volatility-observatory.jpg" alt="Stock Volatility Observatory preview" width="240"></a>
+      <p><strong>Stock Volatility Observatory</strong></p>
+      <p><sub>Carhart four-factor exposures and GARCH/EGARCH volatility for 24 US stocks, 2016–2025.</sub></p>
+      <p><sub>Python · statsmodels · arch · JavaScript</sub></p>
+      <p><sub><a href="https://tpootth.github.io/stock-volatility-observatory/">Live site</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/stock-volatility-observatory">Code</a></sub></p>
+    </td>
+    <td width="33%" valign="top">
       <a href="https://tpootth.github.io/finance_tele_promotion_sale/"><img src="assets/bank-call-prioritization.jpg" alt="Bank Call Prioritization preview" width="240"></a>
       <p><strong>Bank Call Prioritization</strong></p>
       <p><sub>Rank bank marketing calls and explore practical campaign scenarios.</sub></p>
       <p><sub>Python · scikit-learn · Plotly</sub></p>
       <p><sub><a href="https://tpootth.github.io/finance_tele_promotion_sale/">Live site</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/finance_tele_promotion_sale">Code</a></sub></p>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <a href="https://tpootth.github.io/fraud_detect/"><img src="assets/fraud-detect.jpg" alt="Credit Card Fraud Detection preview" width="240"></a>
       <p><strong>Credit Card Fraud Detection</strong></p>
@@ -29,8 +38,6 @@
       <p><sub>PySpark · Google Cloud</sub></p>
       <p><sub><a href="https://tpootth.github.io/fraud_detect/">Live site</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/fraud_detect">Code</a></sub></p>
     </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top">
       <a href="https://tpootth.github.io/politigraph-viz/"><img src="assets/politigraph.jpg" alt="Thai Parliament Votes preview" width="240"></a>
       <p><strong>Thai Parliament Votes</strong></p>
@@ -45,6 +52,8 @@
       <p><sub>JavaScript · SVG · GitHub Actions</sub></p>
       <p><sub><a href="https://tpootth.github.io/iran-it-gadget-store-sales/">Live site</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/iran-it-gadget-store-sales">Code</a></sub></p>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/tpootth/trading"><img src="https://opengraph.githubassets.com/1/tpootth/trading" alt="TradingView Indicators repository preview" width="240"></a>
       <p><strong>TradingView Indicators</strong></p>
