@@ -57,6 +57,8 @@
 
 <h3>🧰 <i>More</i></h3>
 <ul>
+  <li><a href="https://tpootth.github.io/vehicle-safety-observatory/"><b>Vehicle Safety Observatory</b></a> — crash-test ratings against vehicle weight and fuel consumption, with cross-validated model comparisons (<a href="https://github.com/tpootth/vehicle-safety-observatory">code</a>)</li>
+  <li><a href="https://tpootth.github.io/ev-price-intelligence/"><b>EV Price Intelligence</b></a> — EV prices across 64,340 records by manufacturer, powertrain and model year, with a price model and its limits (<a href="https://github.com/tpootth/ev-price-intelligence">code</a>)</li>
   <li><a href="https://tpootth.github.io/iran-it-gadget-store-sales/"><b>Iran Gadget Sales</b></a> — interactive sales dashboard: monthly trends, product performance, city rankings and customer segments (<a href="https://github.com/tpootth/iran-it-gadget-store-sales">code</a>)</li>
   <li><a href="https://github.com/tpootth/files_transfer_project"><b>files_transfer_project</b></a> — Python scripts that index video files to JSON and batch-convert them to MP4</li>
 </ul>
