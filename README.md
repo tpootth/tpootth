@@ -55,12 +55,12 @@
   </tr>
 </table>
 
-<h3>🧰 <i>More</i></h3>
+<h3>🧰 <i>More projects</i></h3>
 <ul>
-  <li><a href="https://tpootth.github.io/vehicle-safety-observatory/"><b>Vehicle Safety Observatory</b></a> — crash-test ratings against vehicle weight and fuel consumption, with cross-validated model comparisons (<a href="https://github.com/tpootth/vehicle-safety-observatory">code</a>)</li>
-  <li><a href="https://tpootth.github.io/ev-price-intelligence/"><b>EV Price Intelligence</b></a> — EV prices across 64,340 records by manufacturer, powertrain and model year, with a price model and its limits (<a href="https://github.com/tpootth/ev-price-intelligence">code</a>)</li>
-  <li><a href="https://tpootth.github.io/iran-it-gadget-store-sales/"><b>Iran Gadget Sales</b></a> — interactive sales dashboard: monthly trends, product performance, city rankings and customer segments (<a href="https://github.com/tpootth/iran-it-gadget-store-sales">code</a>)</li>
-  <li><a href="https://github.com/tpootth/files_transfer_project"><b>files_transfer_project</b></a> — Python scripts that index video files to JSON and batch-convert them to MP4</li>
+  <li><b>Vehicle Safety Observatory</b> — Crash-test ratings against vehicle weight and fuel consumption, with cross-validated model comparisons.<br><sub><a href="https://tpootth.github.io/vehicle-safety-observatory/">Live site</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/vehicle-safety-observatory">Code</a></sub></li>
+  <li><b>EV Price Intelligence</b> — EV prices across 64,340 records by manufacturer, powertrain and model year, with a price model and its limits.<br><sub><a href="https://tpootth.github.io/ev-price-intelligence/">Live site</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/ev-price-intelligence">Code</a></sub></li>
+  <li><b>Iran Gadget Sales</b> — Sales trends, product performance, city rankings and customer segments.<br><sub><a href="https://tpootth.github.io/iran-it-gadget-store-sales/">Live site</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/iran-it-gadget-store-sales">Code</a></sub></li>
+  <li><b>files_transfer_project</b> — Python scripts that index video files to JSON and batch-convert them to MP4.<br><sub><a href="https://github.com/tpootth/files_transfer_project">Code</a></sub></li>
 </ul>
 
 <h2>📑 <i>Familiar with</i></h2>
