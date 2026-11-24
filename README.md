@@ -46,15 +46,6 @@
       <p><sub><a href="https://tpootth.github.io/politigraph-viz/">Live site</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/politigraph-viz">Code</a></sub></p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://tpootth.github.io/iran-it-gadget-store-sales/"><img src="https://opengraph.githubassets.com/1/tpootth/iran-it-gadget-store-sales" alt="Iran Gadget Sales repository preview" width="240"></a>
-      <p><strong>Iran Gadget Sales</strong></p>
-      <p><sub>Explore sales trends, product performance, city rankings and customer segments.</sub></p>
-      <p><sub>JavaScript · SVG · GitHub Actions</sub></p>
-      <p><sub><a href="https://tpootth.github.io/iran-it-gadget-store-sales/">Live site</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/iran-it-gadget-store-sales">Code</a></sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
       <a href="https://github.com/tpootth/trading"><img src="https://opengraph.githubassets.com/1/tpootth/trading" alt="TradingView Indicators repository preview" width="240"></a>
       <p><strong>TradingView Indicators</strong></p>
       <p><sub>Multi-timeframe Squeeze Momentum indicators and usage guides. Not backtested.</sub></p>
@@ -66,6 +57,7 @@
 
 <h3>🧰 <i>More</i></h3>
 <ul>
+  <li><a href="https://tpootth.github.io/iran-it-gadget-store-sales/"><b>Iran Gadget Sales</b></a> — interactive sales dashboard: monthly trends, product performance, city rankings and customer segments (<a href="https://github.com/tpootth/iran-it-gadget-store-sales">code</a>)</li>
   <li><a href="https://github.com/tpootth/files_transfer_project"><b>files_transfer_project</b></a> — Python scripts that index video files to JSON and batch-convert them to MP4</li>
 </ul>
 
