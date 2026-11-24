@@ -13,21 +13,21 @@
       <p><strong>Go Pokédex</strong></p>
       <p><sub>A Go API with concurrent fetching, caching and a Pokémon network view.</sub></p>
       <p><sub>Go · D3.js · Docker</sub></p>
-      <p><sub><a href="https://tpootth.github.io/go_test_api/">Live app</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/go_test_api">Code</a></sub></p>
+      <p><sub><a href="https://tpootth.github.io/go_test_api/">Live site</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/go_test_api">Code</a></sub></p>
     </td>
     <td width="33%" valign="top">
       <a href="https://tpootth.github.io/finance_tele_promotion_sale/"><img src="assets/bank-call-prioritization.jpg" alt="Bank Call Prioritization preview" width="240"></a>
       <p><strong>Bank Call Prioritization</strong></p>
       <p><sub>Rank bank marketing calls and explore practical campaign scenarios.</sub></p>
       <p><sub>Python · scikit-learn · Plotly</sub></p>
-      <p><sub><a href="https://tpootth.github.io/finance_tele_promotion_sale/">Dashboard</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/finance_tele_promotion_sale">Code</a></sub></p>
+      <p><sub><a href="https://tpootth.github.io/finance_tele_promotion_sale/">Live site</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/finance_tele_promotion_sale">Code</a></sub></p>
     </td>
     <td width="33%" valign="top">
       <a href="https://tpootth.github.io/fraud_detect/"><img src="assets/fraud-detect.jpg" alt="Credit Card Fraud Detection preview" width="240"></a>
       <p><strong>Credit Card Fraud Detection</strong></p>
       <p><sub>Fraud detection across 24.4M transactions with Spark ML on Google Cloud.</sub></p>
       <p><sub>PySpark · Google Cloud</sub></p>
-      <p><sub><a href="https://tpootth.github.io/fraud_detect/">Presentation</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/fraud_detect">Code</a></sub></p>
+      <p><sub><a href="https://tpootth.github.io/fraud_detect/">Live site</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/fraud_detect">Code</a></sub></p>
     </td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@
       <p><strong>Iran Gadget Sales</strong></p>
       <p><sub>Explore sales trends, product performance, city rankings and customer segments.</sub></p>
       <p><sub>JavaScript · SVG · GitHub Actions</sub></p>
-      <p><sub><a href="https://tpootth.github.io/iran-it-gadget-store-sales/">Dashboard</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/iran-it-gadget-store-sales">Code</a></sub></p>
+      <p><sub><a href="https://tpootth.github.io/iran-it-gadget-store-sales/">Live site</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/iran-it-gadget-store-sales">Code</a></sub></p>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/tpootth/trading"><img src="https://opengraph.githubassets.com/1/tpootth/trading" alt="TradingView Indicators repository preview" width="240"></a>
