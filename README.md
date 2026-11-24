@@ -6,12 +6,42 @@
 
 <h2>Featured projects</h2>
 
-| Project | What it does | Explore |
-| --- | --- | --- |
-| **Bank Call Prioritization** | Prioritize bank marketing calls with logistic regression and business scenarios. | [Dashboard](https://tpootth.github.io/finance_tele_promotion_sale/) · [Code](https://github.com/tpootth/finance_tele_promotion_sale) |
-| **Credit Card Fraud Detection** | Detect fraud across 24.4M transactions with PySpark and Spark ML on Google Cloud. | [Presentation](https://tpootth.github.io/fraud_detect/) · [Code](https://github.com/tpootth/fraud_detect) |
-| **Thai Parliament Votes** | Explore 107,826 parliamentary votes by year, party and motion. | [Live site](https://tpootth.github.io/politigraph-viz/) · [Code](https://github.com/tpootth/politigraph-viz) |
-| **Go Pokédex** | A Go web app and JSON API with concurrent fetching, caching and a Pokémon network view. | [Live app](https://tpootth.github.io/go_test_api/) · [Code](https://github.com/tpootth/go_test_api) |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://tpootth.github.io/finance_tele_promotion_sale/"><img src="assets/bank-call-prioritization.jpg" alt="Bank Call Prioritization preview" width="240"></a>
+      <p><strong>Bank Call Prioritization</strong></p>
+      <p><sub>Rank bank marketing calls and explore practical campaign scenarios.</sub></p>
+      <p><sub>Python · scikit-learn · Plotly</sub></p>
+      <p><sub><a href="https://tpootth.github.io/finance_tele_promotion_sale/">Dashboard</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/finance_tele_promotion_sale">Code</a></sub></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://tpootth.github.io/fraud_detect/"><img src="assets/fraud-detect.jpg" alt="Credit Card Fraud Detection preview" width="240"></a>
+      <p><strong>Credit Card Fraud Detection</strong></p>
+      <p><sub>Fraud detection across 24.4M transactions with Spark ML on Google Cloud.</sub></p>
+      <p><sub>PySpark · Google Cloud</sub></p>
+      <p><sub><a href="https://tpootth.github.io/fraud_detect/">Presentation</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/fraud_detect">Code</a></sub></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://tpootth.github.io/politigraph-viz/"><img src="assets/politigraph.jpg" alt="Thai Parliament Votes preview" width="240"></a>
+      <p><strong>Thai Parliament Votes</strong></p>
+      <p><sub>Explore 107,826 parliamentary votes by year, party and motion.</sub></p>
+      <p><sub>Observable · D3.js · Python</sub></p>
+      <p><sub><a href="https://tpootth.github.io/politigraph-viz/">Live site</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/politigraph-viz">Code</a></sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://tpootth.github.io/go_test_api/"><img src="assets/pokedex.jpg" alt="Go Pokédex preview" width="240"></a>
+      <p><strong>Go Pokédex</strong></p>
+      <p><sub>A Go API with concurrent fetching, caching and a Pokémon network view.</sub></p>
+      <p><sub>Go · D3.js · Docker</sub></p>
+      <p><sub><a href="https://tpootth.github.io/go_test_api/">Live app</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/go_test_api">Code</a></sub></p>
+    </td>
+    <td width="33%" valign="top"></td>
+    <td width="33%" valign="top"></td>
+  </tr>
+</table>
 
 <h3>🧰 <i>More</i></h3>
 <ul>
