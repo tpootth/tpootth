@@ -46,7 +46,7 @@
       <p><sub><a href="https://tpootth.github.io/politigraph-viz/">Live site</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/politigraph-viz">Code</a></sub></p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/tpootth/trading"><img src="https://opengraph.githubassets.com/1/tpootth/trading" alt="TradingView Indicators repository preview" width="240"></a>
+      <a href="https://github.com/tpootth/trading"><img src="assets/trading-mtf-sqzmom.jpg" alt="MTF Squeeze Momentum indicator on a TradingView gold chart" width="240"></a>
       <p><strong>TradingView Indicators</strong></p>
       <p><sub>Multi-timeframe Squeeze Momentum indicators and usage guides. Not backtested.</sub></p>
       <p><sub>Pine Script v6 · TradingView</sub></p>
