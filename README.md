@@ -9,6 +9,13 @@
 <table>
   <tr>
     <td width="33%" valign="top">
+      <a href="https://tpootth.github.io/go_test_api/"><img src="assets/pokedex.jpg" alt="Go Pokédex preview" width="240"></a>
+      <p><strong>Go Pokédex</strong></p>
+      <p><sub>A Go API with concurrent fetching, caching and a Pokémon network view.</sub></p>
+      <p><sub>Go · D3.js · Docker</sub></p>
+      <p><sub><a href="https://tpootth.github.io/go_test_api/">Live app</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/go_test_api">Code</a></sub></p>
+    </td>
+    <td width="33%" valign="top">
       <a href="https://tpootth.github.io/finance_tele_promotion_sale/"><img src="assets/bank-call-prioritization.jpg" alt="Bank Call Prioritization preview" width="240"></a>
       <p><strong>Bank Call Prioritization</strong></p>
       <p><sub>Rank bank marketing calls and explore practical campaign scenarios.</sub></p>
@@ -22,6 +29,8 @@
       <p><sub>PySpark · Google Cloud</sub></p>
       <p><sub><a href="https://tpootth.github.io/fraud_detect/">Presentation</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/fraud_detect">Code</a></sub></p>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <a href="https://tpootth.github.io/politigraph-viz/"><img src="assets/politigraph.jpg" alt="Thai Parliament Votes preview" width="240"></a>
       <p><strong>Thai Parliament Votes</strong></p>
@@ -29,23 +38,25 @@
       <p><sub>Observable · D3.js · Python</sub></p>
       <p><sub><a href="https://tpootth.github.io/politigraph-viz/">Live site</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/politigraph-viz">Code</a></sub></p>
     </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top">
-      <a href="https://tpootth.github.io/go_test_api/"><img src="assets/pokedex.jpg" alt="Go Pokédex preview" width="240"></a>
-      <p><strong>Go Pokédex</strong></p>
-      <p><sub>A Go API with concurrent fetching, caching and a Pokémon network view.</sub></p>
-      <p><sub>Go · D3.js · Docker</sub></p>
-      <p><sub><a href="https://tpootth.github.io/go_test_api/">Live app</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/go_test_api">Code</a></sub></p>
+      <a href="https://tpootth.github.io/iran-it-gadget-store-sales/"><img src="https://opengraph.githubassets.com/1/tpootth/iran-it-gadget-store-sales" alt="Iran Gadget Sales repository preview" width="240"></a>
+      <p><strong>Iran Gadget Sales</strong></p>
+      <p><sub>Explore sales trends, product performance, city rankings and customer segments.</sub></p>
+      <p><sub>JavaScript · SVG · GitHub Actions</sub></p>
+      <p><sub><a href="https://tpootth.github.io/iran-it-gadget-store-sales/">Dashboard</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/iran-it-gadget-store-sales">Code</a></sub></p>
     </td>
-    <td width="33%" valign="top"></td>
-    <td width="33%" valign="top"></td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/tpootth/trading"><img src="https://opengraph.githubassets.com/1/tpootth/trading" alt="TradingView Indicators repository preview" width="240"></a>
+      <p><strong>TradingView Indicators</strong></p>
+      <p><sub>Multi-timeframe Squeeze Momentum indicators and usage guides. Not backtested.</sub></p>
+      <p><sub>Pine Script v6 · TradingView</sub></p>
+      <p><sub><a href="https://github.com/tpootth/trading">Code</a></sub></p>
+    </td>
   </tr>
 </table>
 
 <h3>🧰 <i>More</i></h3>
 <ul>
-  <li><a href="https://github.com/tpootth/trading"><b>trading</b></a> — TradingView Pine Script v6 indicators: multi-timeframe Squeeze Momentum with buy/sell signals</li>
   <li><a href="https://github.com/tpootth/files_transfer_project"><b>files_transfer_project</b></a> — Python scripts that index video files to JSON and batch-convert them to MP4</li>
 </ul>
 
