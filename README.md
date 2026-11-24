@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://tpootth.github.io/go_test_api/"><img src="assets/pokedex.jpg" alt="Go Pokédex preview" width="240"></a>
+      <a href="https://tpootth.github.io/go_test_api/"><img src="assets/pokedex-v2.jpg" alt="Go Pokédex preview" width="240"></a>
       <p><strong>Go Pokédex</strong></p>
       <p><sub>A Go API with concurrent fetching, caching and a Pokémon network view.</sub></p>
       <p><sub>Go · D3.js · Docker</sub></p>
@@ -23,7 +23,7 @@
       <p><sub><a href="https://tpootth.github.io/stock-volatility-observatory/">Live site</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/stock-volatility-observatory">Code</a></sub></p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://tpootth.github.io/finance_tele_promotion_sale/"><img src="assets/bank-call-prioritization.jpg" alt="Bank Call Prioritization preview" width="240"></a>
+      <a href="https://tpootth.github.io/finance_tele_promotion_sale/"><img src="assets/bank-call-prioritization-v2.jpg" alt="Bank Call Prioritization preview" width="240"></a>
       <p><strong>Bank Call Prioritization</strong></p>
       <p><sub>Rank bank marketing calls and explore practical campaign scenarios.</sub></p>
       <p><sub>Python · scikit-learn · Plotly</sub></p>
@@ -32,14 +32,14 @@
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://tpootth.github.io/fraud_detect/"><img src="assets/fraud-detect.jpg" alt="Credit Card Fraud Detection preview" width="240"></a>
+      <a href="https://tpootth.github.io/fraud_detect/"><img src="assets/fraud-detect-v2.jpg" alt="Credit Card Fraud Detection preview" width="240"></a>
       <p><strong>Credit Card Fraud Detection</strong></p>
       <p><sub>Fraud detection across 24.4M transactions with Spark ML on Google Cloud.</sub></p>
       <p><sub>PySpark · Google Cloud</sub></p>
       <p><sub><a href="https://tpootth.github.io/fraud_detect/">Live site</a> &nbsp;·&nbsp; <a href="https://github.com/tpootth/fraud_detect">Code</a></sub></p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://tpootth.github.io/politigraph-viz/"><img src="assets/politigraph.jpg" alt="Thai Parliament Votes preview" width="240"></a>
+      <a href="https://tpootth.github.io/politigraph-viz/"><img src="assets/politigraph-v2.jpg" alt="Thai Parliament Votes preview" width="240"></a>
       <p><strong>Thai Parliament Votes</strong></p>
       <p><sub>Explore 107,826 parliamentary votes by year, party and motion.</sub></p>
       <p><sub>Observable · D3.js · Python</sub></p>
